@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/home/lujiawei/cv-course/.venv-basic/bin/python",
+  "python.defaultInterpreterPath": "/home/lujiawei/cv-course/.venv-basic/bin/python",
+  "terminal.integrated.defaultProfile.windows": "wsl"
+}
